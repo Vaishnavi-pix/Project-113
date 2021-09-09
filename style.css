@@ -1,0 +1,19 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+#snapshot:hover{
+    background-color: plum;
+}
+#snapshot{
+    margin-left: 30px;
+    width:95%;
+    height: 70px;
+    font-size: 32px;
+}
+#title{
+    margin-left: 10px;
+    width: 98%;
+    height: 90px;
+    font-size: 50px;
+}
